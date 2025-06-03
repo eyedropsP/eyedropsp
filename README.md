@@ -14,24 +14,6 @@
 </p>
 
 <p align="left">
-  <a href="https://zenn.dev/eyedrops">
-    <img height="20" src="https://zenn.badge.nikaera.com/s/eyedrops/likes" />
-  </a>
-  <a href="https://zenn.dev/eyedrops">
-    <img height="20" src="https://zenn.badge.nikaera.com/s/eyedrops/followers" />
-  </a>
-  <a href="https://zenn.dev/eyedrops">
-    <img height="20" src="https://zenn.badge.nikaera.com/s/eyedrops/articles" />
-  </a>
-  <a href="http://qiita.com/eyedrops">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/eyedrops/contributions.svg" />
-  </a>
-  <a href="http://qiita.com/eyedrops">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/eyedrops/posts.svg" />
-  </a>
-</p>
-
-<p align="left">
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyedropsP&layout=compact&theme=cobalt" />
   <img alt="eyedrops's GitHub stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=eyedropsP&theme=cobalt&show_icons=true" />
 </p>
